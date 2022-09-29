@@ -9,7 +9,7 @@ R code to reproduce miRNA target investigation and pathway enrichment analysis. 
 
 "f_validation_db_200527.txt" 
 Experimentally validated miRNA-target interactions collated from miRTarbase V7 (Chou et al., 2018) and TarBase V8 (Karagkouni et al., 2018) as specified in the paper. Required around lines 150-165 in R code. 
-**File is 94MB, and cannot be uploaded to Github. Please email niamhmconnolly@rcsi.com to request.**
+**File is 94MB, and has not yet been uploaded to Github. Please email niamhmconnolly@rcsi.com to request.**
 
 
 "ALL_EPILEPSY_GENES.csv" 
